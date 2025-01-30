@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jednipat Kemawat"
+title: "Jednipat Kemawatdasdasd"
 author_profile: true
 redirect_from: 
   - /about/

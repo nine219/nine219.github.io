@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "about me"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,16 +9,26 @@ redirect_from:
 
 Highly motivated Computer Engineering program student with interest and experience in backend development, possessing skills in APIs and databases (MySQL), seeking a backend developer internship to enhance my skills and knowledge while experiencing a real-world job.
 
+Education
+======
+King Mongkut's University of Technology Thonburi ( 2021 - present )
+- Department of Computer Engineering
+Assumption College ( 2014 - 2020 )
 
 Academic Projects
 ======
 Web Application ( E- Commerce )
 ------
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Developed both frontend and backend.
+- Designed web pages and specific components, including the sidebar and seller interface, to enhance user experience.
+- Managed the database system to efficiently gather and store crucial information including product details, customer profiles, and shop data.
+- Implemented measures to guarantee uninterrupted connectivity for the E-Commerce web application, ensuring smooth operation.
+
+Chat  Application ( Futter )
+-----
+- Developed user-friendly and visually appealing interfaces to optimize the user experience.
+- Designed frontend interface for the "Add friend" system. 
+- Developed the data transmission process for user information added to the database (Firebase), making it easily usable in other parts of the application.
 
 Site-wide configuration
 ------

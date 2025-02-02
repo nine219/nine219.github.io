@@ -13,6 +13,7 @@ Education
 ======
 King Mongkut's University of Technology Thonburi ( 2021 - present )
 - Department of Computer Engineering
+
 Assumption College ( 2014 - 2020 )
 
 Academic Projects
